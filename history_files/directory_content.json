@@ -1,4 +1,18 @@
 {
+  "1D-ARC": {
+    "1d_denoising_1c_0": [
+      "16/ARC-Interactive history 2024-03-05T18-37-33Z.json"
+    ],
+    "1d_denoising_1c_1": [
+      "16/ARC-Interactive history 2024-03-05T18-37-50Z.json"
+    ],
+    "1d_denoising_1c_10": [
+      "16/ARC-Interactive history 2024-03-05T18-38-02Z.json"
+    ],
+    "1d_denoising_1c_11": [
+      "16/ARC-Interactive history 2024-03-05T18-38-17Z.json"
+    ]
+  },
   "ARC": {
     "00576224": [
       "4/ARC-Interactive history 2024-02-23T22-58-57Z.json"
@@ -4483,5 +4497,5 @@
       "12/ARC-Interactive history 2024-02-26T21-54-33Z.json"
     ]
   },
-  "generatedOn": "2024-03-04 00:45:58Z"
+  "generatedOn": "2024-03-05 18:58:25Z"
 }
