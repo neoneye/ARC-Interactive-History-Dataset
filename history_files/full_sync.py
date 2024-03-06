@@ -1,22 +1,16 @@
 import subprocess
 import os
 
-# print current working directory
-print("Current working directory:")
-cwd = os.getcwd()
-print(cwd)
+# Make sure current working directory is the directory of this script
+cwd_before = os.getcwd()
+print("Current working directory, before:", cwd_before)
 
-#path of this script
-print("Path of this script")
+# Change working directory to the directory of this script
 this_script_path = os.path.realpath(__file__)
-print(this_script_path)
+os.chdir(os.path.dirname(this_script_path))
 
-#os.chdir('/home/runner/work/website/website')
-#exit()
-
-
-
-#os.system('pwd')
+cwd_after = os.getcwd()
+print("Current working directory, after:", cwd_after)
 
 # run import_json_job
 os.system('python3 import_json_job.py')
