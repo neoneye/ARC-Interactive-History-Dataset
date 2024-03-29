@@ -43,7 +43,7 @@ def move_files_to_repo(input_dir, repo_dir):
         with open(file_path, 'r') as file:
             content = file.read()
         # Check if the file is of the new type with embedded JSON strings
-        if "approved" in input_file:
+        if "review" in input_file:
             # Extract and save the embedded JSON strings
             extract_and_save_json_contents(content, repo_dir)
             # Remove the processed file
