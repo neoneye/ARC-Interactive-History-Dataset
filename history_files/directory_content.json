@@ -602,6 +602,18 @@
     "1d_flip_9": [
       "17/87.json"
     ],
+    "1d_hollow_0": [
+      "28/63.json"
+    ],
+    "1d_hollow_1": [
+      "28/62.json"
+    ],
+    "1d_hollow_10": [
+      "28/67.json"
+    ],
+    "1d_hollow_11": [
+      "28/61.json"
+    ],
     "1d_hollow_12": [
       "20/90.json"
     ],
@@ -2115,6 +2127,18 @@
     ],
     "1d_recolor_cmp_12": [
       "22/80.json"
+    ],
+    "1d_recolor_cmp_13": [
+      "28/60.json"
+    ],
+    "1d_recolor_cmp_14": [
+      "28/66.json"
+    ],
+    "1d_recolor_cmp_15": [
+      "28/64.json"
+    ],
+    "1d_recolor_cmp_16": [
+      "28/65.json"
     ],
     "1d_recolor_cmp_17": [
       "23/34.json"
@@ -7418,5 +7442,5 @@
       "12/74.json"
     ]
   },
-  "generatedOn": "2024-04-20 15:02:35Z"
+  "generatedOn": "2024-04-20 19:08:15Z"
 }
