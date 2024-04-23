@@ -6,10 +6,12 @@ This is a project that records human interactions while solving tasks from ARC, 
 
 This project aims to build a comprehensive dataset of interaction histories to facilitate ARC research. Each time a user solves a task on BrainGridGame, their interaction is anonymously recorded and contributes to this growing dataset, providing valuable insights into human problem-solving processes.
 
+[video, 2 minutes, showing various ways of puzzle solving](https://www.youtube.com/watch?v=vQt7UZsYooQ).
+
 Interaction history examples:
-[05a7bcf2](https://neoneye.github.io/arc/history.html?historyUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fneoneye%2FARC-Interactive-History-Dataset%2Fmain%2Fhistory_files%2F25%2F50.json), 
-[08573cc6](https://neoneye.github.io/arc/history.html?historyUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fneoneye%2FARC-Interactive-History-Dataset%2Fmain%2Fhistory_files%2F7%2F33.json), 
-[3f23242b](https://neoneye.github.io/arc/history.html?historyUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fneoneye%2FARC-Interactive-History-Dataset%2Fmain%2Fhistory_files%2F4%2F39.json).
+[05a7bcf2](https://neoneye.github.io/arc/history.html?dataset=ARC&task=05a7bcf2historyIndex=0&historyJson=%5B%2225%2F50%22%2C%2227%2F90%22%2C%228%2F70%22%5D), 
+[08573cc6](https://neoneye.github.io/arc/history.html?dataset=ARC&task=08573cc6historyIndex=0&historyJson=%5B%227%2F33%22%5D), 
+[3f23242b](https://neoneye.github.io/arc/history.html?dataset=ARC&task=3f23242bhistoryIndex=0&historyJson=[%224%2F39%22]).
 
 ## Contribute by solving tasks
 
