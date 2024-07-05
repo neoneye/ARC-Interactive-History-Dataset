@@ -2880,7 +2880,9 @@
       "59/11.json",
       "59/23.json",
       "60/15.json",
-      "60/31.json"
+      "60/31.json",
+      "61/13.json",
+      "61/42.json"
     ],
     "00d62c1b": [
       "1/61.json",
@@ -3052,6 +3054,8 @@
       "60/29.json",
       "60/41.json",
       "60/69.json",
+      "61/09.json",
+      "61/51.json",
       "8/69.json"
     ],
     "045e512c": [
@@ -3167,6 +3171,7 @@
       "52/37.json",
       "56/99.json",
       "60/97.json",
+      "61/11.json",
       "7/33.json"
     ],
     "08ed6ac7": [
@@ -3580,6 +3585,7 @@
       "57/04.json",
       "57/20.json",
       "58/26.json",
+      "61/27.json",
       "8/71.json",
       "8/79.json"
     ],
@@ -3902,7 +3908,8 @@
       "35/75.json",
       "54/34.json",
       "60/99.json",
-      "61/00.json"
+      "61/00.json",
+      "61/29.json"
     ],
     "25ff71a9": [
       "1/17.json",
@@ -4250,7 +4257,9 @@
       "60/71.json",
       "60/89.json",
       "60/98.json",
-      "61/07.json"
+      "61/07.json",
+      "61/24.json",
+      "61/52.json"
     ],
     "29623171": [
       "1/81.json",
@@ -4450,7 +4459,8 @@
     "3618c87e": [
       "1/86.json",
       "35/15.json",
-      "35/90.json"
+      "35/90.json",
+      "61/12.json"
     ],
     "3631a71a": [
       "59/18.json",
@@ -4532,7 +4542,8 @@
       "55/99.json",
       "57/36.json",
       "59/43.json",
-      "60/47.json"
+      "60/47.json",
+      "61/34.json"
     ],
     "3ac3eb23": [
       "1/87.json",
@@ -4601,7 +4612,8 @@
       "56/62.json",
       "58/56.json",
       "59/31.json",
-      "59/79.json"
+      "59/79.json",
+      "61/35.json"
     ],
     "3befdf3e": [
       "5/10.json"
@@ -4714,6 +4726,7 @@
       "53/26.json",
       "55/15.json",
       "55/38.json",
+      "61/36.json",
       "9/48.json"
     ],
     "4290ef0e": [
@@ -5079,7 +5092,8 @@
       "60/64.json",
       "60/72.json",
       "61/05.json",
-      "61/06.json"
+      "61/06.json",
+      "61/31.json"
     ],
     "4ff4c9da": [
       "30/62.json",
@@ -5246,7 +5260,8 @@
       "60/18.json",
       "60/59.json",
       "60/66.json",
-      "60/73.json"
+      "60/73.json",
+      "61/32.json"
     ],
     "5289ad53": [
       "36/70.json",
@@ -5300,7 +5315,8 @@
       "53/81.json",
       "56/03.json",
       "56/25.json",
-      "57/13.json"
+      "57/13.json",
+      "61/37.json"
     ],
     "54d9e175": [
       "3/85.json"
@@ -5500,7 +5516,8 @@
       "52/00.json",
       "52/57.json",
       "56/04.json",
-      "59/55.json"
+      "59/55.json",
+      "61/30.json"
     ],
     "60c09cac": [
       "3/05.json"
@@ -5646,7 +5663,8 @@
       "59/59.json",
       "59/68.json",
       "60/61.json",
-      "60/74.json"
+      "60/74.json",
+      "61/33.json"
     ],
     "66f2d22f": [
       "45/86.json",
@@ -5868,7 +5886,9 @@
       "55/72.json",
       "57/42.json",
       "59/19.json",
-      "59/29.json"
+      "59/29.json",
+      "61/26.json",
+      "61/38.json"
     ],
     "6fa7a44f": [
       "5/51.json"
@@ -6123,6 +6143,7 @@
       "57/12.json",
       "58/73.json",
       "60/23.json",
+      "61/14.json",
       "8/95.json"
     ],
     "81c0276b": [
@@ -6687,7 +6708,8 @@
       "53/27.json",
       "55/52.json",
       "59/53.json",
-      "60/45.json"
+      "60/45.json",
+      "61/54.json"
     ],
     "a680ac02": [
       "27/28.json",
@@ -6725,7 +6747,8 @@
       "50/89.json",
       "51/81.json",
       "55/21.json",
-      "55/53.json"
+      "55/53.json",
+      "61/43.json"
     ],
     "a740d043": [
       "5/68.json"
@@ -6758,7 +6781,8 @@
       "51/82.json",
       "53/10.json",
       "55/73.json",
-      "60/24.json"
+      "60/24.json",
+      "61/39.json"
     ],
     "a85d4709": [
       "2/37.json",
@@ -6836,7 +6860,8 @@
       "52/89.json",
       "55/67.json",
       "55/71.json",
-      "56/82.json"
+      "56/82.json",
+      "61/44.json"
     ],
     "aba27056": [
       "2/38.json",
@@ -6972,7 +6997,8 @@
       "55/85.json",
       "57/27.json",
       "60/09.json",
-      "60/49.json"
+      "60/49.json",
+      "61/40.json"
     ],
     "b1fc8b8e": [
       "60/17.json",
@@ -7109,6 +7135,7 @@
       "57/79.json",
       "58/79.json",
       "59/00.json",
+      "61/28.json",
       "9/06.json"
     ],
     "b9b7f026": [
@@ -7167,7 +7194,8 @@
       "51/83.json",
       "52/15.json",
       "55/86.json",
-      "59/77.json"
+      "59/77.json",
+      "61/41.json"
     ],
     "bb52a14b": [
       "54/85.json",
@@ -7485,7 +7513,8 @@
       "59/63.json",
       "60/05.json",
       "60/38.json",
-      "60/48.json"
+      "60/48.json",
+      "61/55.json"
     ],
     "d06dbe63": [
       "24/86.json",
@@ -7858,6 +7887,7 @@
       "53/61.json",
       "59/01.json",
       "59/96.json",
+      "61/10.json",
       "9/13.json"
     ],
     "e633a9e5": [
@@ -7972,7 +8002,8 @@
       "59/32.json",
       "59/60.json",
       "60/19.json",
-      "60/75.json"
+      "60/75.json",
+      "61/53.json"
     ],
     "e76a88a6": [
       "2/71.json",
@@ -8048,7 +8079,8 @@
       "56/06.json",
       "57/41.json",
       "57/83.json",
-      "59/61.json"
+      "59/61.json",
+      "61/22.json"
     ],
     "e8593010": [
       "2/72.json"
@@ -8166,7 +8198,8 @@
       "56/73.json",
       "57/16.json",
       "58/39.json",
-      "60/62.json"
+      "60/62.json",
+      "61/45.json"
     ],
     "ea959feb": [
       "53/65.json",
@@ -8236,7 +8269,8 @@
       "58/38.json",
       "58/55.json",
       "59/76.json",
-      "60/39.json"
+      "60/39.json",
+      "61/56.json"
     ],
     "ed74f2f2": [
       "26/12.json",
@@ -8463,7 +8497,8 @@
       "56/08.json",
       "59/51.json",
       "60/44.json",
-      "60/87.json"
+      "60/87.json",
+      "61/23.json"
     ],
     "fcb5c309": [
       "4/26.json"
@@ -9616,6 +9651,7 @@
       "42/44.json",
       "43/26.json",
       "57/86.json",
+      "61/25.json",
       "9/28.json"
     ],
     "1_3_5th_go_down_2_4th_go_up_l6abuzscmjgg12f0mdc": [
@@ -9681,6 +9717,7 @@
       "9/43.json"
     ],
     "Color_encoding_updated_l6ae1ybpnzgz9mlmk1": [
+      "61/50.json",
       "9/44.json"
     ],
     "Color_every_other_tiles_in_the_horizontal_line_l6abe9jmc0chwbqn9c7": [
@@ -9984,7 +10021,8 @@
       "10/38.json"
     ],
     "edited_every_5_color_in_a_row_and_column_l6bkoau8zekve5ejb2i": [
-      "10/39.json"
+      "10/39.json",
+      "61/20.json"
     ],
     "exchange_central_regions_diagonally_l6aezzazwi5alzkuk8n": [
       "10/40.json"
@@ -9999,7 +10037,8 @@
       "10/43.json"
     ],
     "find_the_5_and_1_l6ae9ses9zaejs6idai": [
-      "10/44.json"
+      "10/44.json",
+      "61/18.json"
     ],
     "find_the_color_of_the_gray_pixels_l6afriful4bel4379yo": [
       "10/45.json"
@@ -10014,7 +10053,8 @@
       "10/48.json"
     ],
     "flip_based_on_the_line_l6abfld9pqc1qln7rfa": [
-      "10/50.json"
+      "10/50.json",
+      "61/19.json"
     ],
     "flip_on_the_red_indicator_l6aepsu95pmaz36m2qd": [
       "10/51.json"
@@ -10039,7 +10079,8 @@
       "10/57.json"
     ],
     "make_me_smile_l6bl4bdz1cgh6ajfa4yj": [
-      "10/58.json"
+      "10/58.json",
+      "61/16.json"
     ],
     "make_the_rectangle_larger_l6aagjtrvgu9vxwb92d": [
       "10/59.json",
@@ -10065,7 +10106,8 @@
       "48/83.json"
     ],
     "push_to_top-right_by_one_l6aflo0rz66bdej719": [
-      "10/65.json"
+      "10/65.json",
+      "61/48.json"
     ],
     "rainy_day_l6bjze1slxrmz0q8ufb": [
       "10/66.json"
@@ -10095,17 +10137,20 @@
       "48/90.json"
     ],
     "which_side_has_more_area_l6bkhow9g5d3u8nwm58": [
-      "10/72.json"
+      "10/72.json",
+      "61/49.json"
     ],
     "wrap_blue_around_red_l6ae5b5csckyjb7nsj": [
       "10/73.json"
     ],
     "xor_l6bk7mn24iz2pdb4lxp": [
       "10/74.json",
-      "43/18.json"
+      "43/18.json",
+      "61/21.json"
     ],
     "yflip_l699qy8cyl67x9b0h3h": [
-      "10/75.json"
+      "10/75.json",
+      "61/47.json"
     ]
   },
   "PQA": {
@@ -10971,7 +11016,8 @@
       "56/83.json",
       "60/54.json",
       "60/55.json",
-      "60/63.json"
+      "60/63.json",
+      "61/15.json"
     ],
     "sound001": [
       "12/68.json",
@@ -10979,7 +11025,8 @@
       "60/50.json"
     ],
     "sound002": [
-      "12/69.json"
+      "12/69.json",
+      "61/17.json"
     ],
     "sound003": [
       "12/70.json"
@@ -11003,7 +11050,8 @@
       "12/74.json",
       "57/69.json",
       "60/51.json",
-      "60/56.json"
+      "60/56.json",
+      "61/46.json"
     ]
   },
   "synth_riddles": {
@@ -11037,5 +11085,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-07-04 11:10:43Z"
+  "generatedOn": "2024-07-05 14:58:10Z"
 }
