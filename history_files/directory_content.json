@@ -3092,6 +3092,7 @@
       "65/69.json",
       "65/91.json",
       "66/13.json",
+      "66/19.json",
       "8/69.json"
     ],
     "045e512c": [
@@ -11464,6 +11465,105 @@
     ]
   },
   "arc-dataset-tama": {
+    "alternating_intersection_and_1": [
+      "66/29.json"
+    ],
+    "alternating_intersection_and_10": [
+      "66/32.json"
+    ],
+    "alternating_intersection_and_11": [
+      "66/30.json"
+    ],
+    "alternating_intersection_and_12": [
+      "66/33.json"
+    ],
+    "alternating_intersection_and_13": [
+      "66/31.json"
+    ],
+    "alternating_intersection_and_14": [
+      "66/34.json"
+    ],
+    "alternating_intersection_and_15": [
+      "66/35.json"
+    ],
+    "alternating_intersection_and_16": [
+      "66/36.json"
+    ],
+    "alternating_intersection_and_17": [
+      "66/37.json"
+    ],
+    "alternating_intersection_and_18": [
+      "66/38.json"
+    ],
+    "alternating_intersection_and_19": [
+      "66/40.json"
+    ],
+    "alternating_intersection_and_2": [
+      "66/41.json"
+    ],
+    "alternating_intersection_and_20": [
+      "66/42.json"
+    ],
+    "alternating_intersection_and_3": [
+      "66/44.json"
+    ],
+    "alternating_intersection_and_4": [
+      "66/39.json"
+    ],
+    "alternating_intersection_and_5": [
+      "66/43.json"
+    ],
+    "alternating_intersection_and_6": [
+      "66/45.json"
+    ],
+    "alternating_intersection_and_7": [
+      "66/47.json"
+    ],
+    "alternating_intersection_and_8": [
+      "66/46.json"
+    ],
+    "alternating_intersection_and_9": [
+      "66/48.json"
+    ],
+    "alternating_intersection_or_1": [
+      "66/49.json"
+    ],
+    "alternating_intersection_or_10": [
+      "66/50.json"
+    ],
+    "alternating_intersection_or_11": [
+      "66/51.json"
+    ],
+    "alternating_intersection_or_12": [
+      "66/52.json"
+    ],
+    "boundingbox_15": [
+      "66/23.json"
+    ],
+    "color_13": [
+      "66/20.json"
+    ],
+    "color_20": [
+      "66/27.json"
+    ],
+    "color_6": [
+      "66/22.json"
+    ],
+    "compress_12": [
+      "66/26.json"
+    ],
+    "compress_16": [
+      "66/24.json"
+    ],
+    "compress_5": [
+      "66/25.json"
+    ],
+    "count_pixels_and_repeat_input_pattern_15": [
+      "66/21.json"
+    ],
+    "cross_14": [
+      "66/28.json"
+    ],
     "erosion_12": [
       "65/45.json"
     ],
@@ -11681,5 +11781,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-09-16 09:09:25Z"
+  "generatedOn": "2024-09-16 21:18:40Z"
 }
