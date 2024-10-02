@@ -11809,11 +11809,50 @@
     "mask_of_obscured_rectangle_16": [
       "66/85.json"
     ],
+    "move_obscured_rectangle_to_top_1": [
+      "67/76.json"
+    ],
+    "move_obscured_rectangle_to_top_10": [
+      "67/78.json"
+    ],
+    "move_obscured_rectangle_to_top_11": [
+      "67/75.json"
+    ],
     "move_obscured_rectangle_to_top_13": [
       "67/13.json"
     ],
     "move_obscured_rectangle_to_top_14": [
       "67/14.json"
+    ],
+    "move_obscured_rectangle_to_top_15": [
+      "67/79.json"
+    ],
+    "move_obscured_rectangle_to_top_16": [
+      "67/74.json"
+    ],
+    "move_obscured_rectangle_to_top_17": [
+      "67/80.json"
+    ],
+    "move_obscured_rectangle_to_top_18": [
+      "67/83.json"
+    ],
+    "move_obscured_rectangle_to_top_19": [
+      "67/84.json"
+    ],
+    "move_obscured_rectangle_to_top_2": [
+      "67/77.json"
+    ],
+    "move_obscured_rectangle_to_top_20": [
+      "67/81.json"
+    ],
+    "move_obscured_rectangle_to_top_3": [
+      "67/82.json"
+    ],
+    "move_obscured_rectangle_to_top_4": [
+      "67/85.json"
+    ],
+    "move_obscured_rectangle_to_top_5": [
+      "67/86.json"
     ],
     "scale_20": [
       "66/55.json"
@@ -12046,5 +12085,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-10-02 21:04:44Z"
+  "generatedOn": "2024-10-02 21:15:18Z"
 }
