@@ -11776,8 +11776,32 @@
     "input_image_create_output_symmetry_rect_16": [
       "66/54.json"
     ],
+    "intersecting_spans_colored_primary_area_extract_horizontal_1": [
+      "67/71.json"
+    ],
+    "intersecting_spans_colored_primary_area_extract_horizontal_10": [
+      "67/69.json"
+    ],
+    "intersecting_spans_colored_primary_area_extract_horizontal_11": [
+      "67/72.json"
+    ],
+    "intersecting_spans_colored_primary_area_extract_horizontal_12": [
+      "67/66.json"
+    ],
     "intersecting_spans_colored_primary_area_extract_horizontal_17": [
       "65/63.json"
+    ],
+    "intersecting_spans_colored_primary_area_fill_template_border_17": [
+      "67/67.json"
+    ],
+    "intersecting_spans_colored_primary_area_fill_template_border_7": [
+      "67/68.json"
+    ],
+    "intersecting_spans_empty_primary_area_14": [
+      "67/70.json"
+    ],
+    "intersecting_spans_empty_primary_area_17": [
+      "67/73.json"
     ],
     "mask_11": [
       "66/84.json"
@@ -12022,5 +12046,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-10-02 20:47:41Z"
+  "generatedOn": "2024-10-02 21:04:44Z"
 }
