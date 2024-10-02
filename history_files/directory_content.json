@@ -11671,6 +11671,42 @@
     "alternating_intersection_sum_2": [
       "67/52.json"
     ],
+    "alternating_intersection_sum_20": [
+      "67/54.json"
+    ],
+    "alternating_intersection_sum_3": [
+      "67/57.json"
+    ],
+    "alternating_intersection_sum_4": [
+      "67/59.json"
+    ],
+    "alternating_intersection_sum_5": [
+      "67/64.json"
+    ],
+    "alternating_intersection_sum_6": [
+      "67/60.json"
+    ],
+    "alternating_intersection_sum_7": [
+      "67/61.json"
+    ],
+    "alternating_intersection_sum_8": [
+      "67/65.json"
+    ],
+    "alternating_intersection_sum_9": [
+      "67/55.json"
+    ],
+    "alternating_intersection_xor_1": [
+      "67/62.json"
+    ],
+    "alternating_intersection_xor_10": [
+      "67/58.json"
+    ],
+    "alternating_intersection_xor_11": [
+      "67/56.json"
+    ],
+    "alternating_intersection_xor_12": [
+      "67/63.json"
+    ],
     "boundingbox_13": [
       "66/75.json"
     ],
@@ -11986,5 +12022,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-10-02 20:17:10Z"
+  "generatedOn": "2024-10-02 20:47:41Z"
 }
