@@ -2911,7 +2911,8 @@
       "68/59.json",
       "69/03.json",
       "69/14.json",
-      "69/80.json"
+      "69/80.json",
+      "70/53.json"
     ],
     "00d62c1b": [
       "1/61.json",
@@ -9081,6 +9082,25 @@
       "59/90.json"
     ]
   },
+  "ARC-Heavy-a": {
+    "data_100k_task100": [
+      "70/56.json"
+    ],
+    "data_100k_task1005": [
+      "70/57.json"
+    ]
+  },
+  "ARC-Heavy-b": {
+    "data_suggestfunction_100k_task0": [
+      "70/58.json"
+    ],
+    "data_suggestfunction_100k_task1": [
+      "70/59.json"
+    ],
+    "data_suggestfunction_100k_task10": [
+      "70/60.json"
+    ]
+  },
   "ARC_synthetic_extend": {
     "05f2a901_syn_0": [
       "12/94.json",
@@ -11962,7 +11982,8 @@
       "68/41.json"
     ],
     "boundingbox_13": [
-      "66/75.json"
+      "66/75.json",
+      "70/55.json"
     ],
     "boundingbox_15": [
       "66/23.json"
@@ -12029,6 +12050,9 @@
     ],
     "cross_18": [
       "70/29.json"
+    ],
+    "erosion_1": [
+      "70/54.json"
     ],
     "erosion_12": [
       "65/45.json"
@@ -12255,6 +12279,9 @@
     "ray_9": [
       "68/60.json"
     ],
+    "scale_16": [
+      "70/52.json"
+    ],
     "scale_20": [
       "66/55.json"
     ],
@@ -12267,11 +12294,23 @@
     "symmetry_line_20": [
       "70/30.json"
     ],
+    "symmetry_rect_input_image_and_extract_a_particular_tile_10": [
+      "70/49.json"
+    ],
+    "symmetry_rect_input_image_and_extract_a_particular_tile_11": [
+      "70/50.json"
+    ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_4": [
       "68/65.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_5": [
       "68/66.json"
+    ],
+    "symmetry_rect_input_image_and_extract_a_particular_tile_6": [
+      "70/51.json"
+    ],
+    "symmetry_square_input_image_and_extract_a_particular_tile_1": [
+      "70/48.json"
     ],
     "symmetry_square_input_image_and_extract_a_particular_tile_18": [
       "68/76.json"
@@ -12522,5 +12561,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-11-12 01:24:56Z"
+  "generatedOn": "2024-11-12 12:27:05Z"
 }
