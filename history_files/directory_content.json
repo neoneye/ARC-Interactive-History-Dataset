@@ -11999,8 +11999,29 @@
     "count_pixels_and_repeat_input_pattern_3": [
       "67/23.json"
     ],
+    "cross_11": [
+      "70/24.json"
+    ],
+    "cross_12": [
+      "70/23.json"
+    ],
+    "cross_13": [
+      "70/22.json"
+    ],
     "cross_14": [
       "66/28.json"
+    ],
+    "cross_15": [
+      "70/20.json"
+    ],
+    "cross_16": [
+      "70/27.json"
+    ],
+    "cross_17": [
+      "70/28.json"
+    ],
+    "cross_18": [
+      "70/29.json"
     ],
     "erosion_12": [
       "65/45.json"
@@ -12008,17 +12029,26 @@
     "flip_17": [
       "69/62.json"
     ],
+    "fractal_to_pattern_24": [
+      "70/21.json"
+    ],
     "fractal_to_pattern_30": [
       "66/76.json"
     ],
     "gravity_draw_13": [
       "70/15.json"
     ],
+    "gravity_draw_14": [
+      "70/25.json"
+    ],
     "gravity_draw_15": [
       "65/55.json"
     ],
     "gravity_draw_16": [
       "65/43.json"
+    ],
+    "gravity_draw_18": [
+      "70/26.json"
     ],
     "gravity_draw_2": [
       "70/11.json"
@@ -12110,6 +12140,12 @@
     "mask_11": [
       "66/84.json"
     ],
+    "mask_12": [
+      "70/31.json"
+    ],
+    "mask_13": [
+      "70/32.json"
+    ],
     "mask_3": [
       "70/01.json"
     ],
@@ -12196,6 +12232,9 @@
     ],
     "symmetry_line_2": [
       "68/20.json"
+    ],
+    "symmetry_line_20": [
+      "70/30.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_4": [
       "68/65.json"
@@ -12452,5 +12491,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-11-11 20:21:15Z"
+  "generatedOn": "2024-11-12 00:17:28Z"
 }
