@@ -3642,6 +3642,7 @@
       "67/00.json",
       "69/02.json",
       "70/66.json",
+      "70/97.json",
       "8/77.json"
     ],
     "15663ba9": [
@@ -4478,7 +4479,8 @@
       "68/70.json",
       "69/64.json",
       "69/75.json",
-      "69/89.json"
+      "69/89.json",
+      "71/06.json"
     ],
     "29623171": [
       "1/81.json",
@@ -5386,7 +5388,8 @@
       "65/97.json",
       "66/92.json",
       "68/74.json",
-      "69/91.json"
+      "69/91.json",
+      "71/10.json"
     ],
     "4ff4c9da": [
       "30/62.json",
@@ -7221,7 +7224,8 @@
     ],
     "a8610ef7_v3": [
       "41/25.json",
-      "68/48.json"
+      "68/48.json",
+      "71/11.json"
     ],
     "a87f7484": [
       "35/86.json",
@@ -9107,7 +9111,8 @@
   },
   "ARC-Heavy-a": {
     "data_100k_task100": [
-      "70/56.json"
+      "70/56.json",
+      "71/12.json"
     ],
     "data_100k_task1005": [
       "70/57.json"
@@ -9152,6 +9157,9 @@
     ],
     "data_suggestfunction_100k_task10": [
       "70/60.json"
+    ],
+    "data_suggestfunction_100k_task261": [
+      "70/99.json"
     ]
   },
   "ARC_synthetic_extend": {
@@ -11423,6 +11431,29 @@
       "59/44.json"
     ]
   },
+  "Sequence_ARC": {
+    "00d62c1b": [
+      "70/98.json"
+    ],
+    "0a938d79": [
+      "71/00.json"
+    ],
+    "0b148d64": [
+      "71/01.json"
+    ],
+    "0ca9ddb6": [
+      "71/02.json"
+    ],
+    "0d3d703e": [
+      "71/03.json"
+    ],
+    "0dfd9992": [
+      "71/04.json"
+    ],
+    "0e206a2e": [
+      "70/95.json"
+    ]
+  },
   "Sort-of-ARC": {
     "04e912a9": [
       "67/98.json",
@@ -11500,6 +11531,9 @@
     "parapraxis_2022_07_31_04": [
       "12/77.json"
     ],
+    "parapraxis_2022_07_31_05": [
+      "71/05.json"
+    ],
     "yk001": [
       "12/78.json"
     ],
@@ -11512,6 +11546,9 @@
     "yk004": [
       "12/81.json",
       "63/74.json"
+    ],
+    "yk005": [
+      "70/96.json"
     ],
     "yk006": [
       "12/82.json"
@@ -12445,6 +12482,9 @@
       "64/49.json",
       "67/05.json"
     ],
+    "2wfys5w64": [
+      "71/07.json"
+    ],
     "2wfys5w64-relative-right-side": [
       "12/53.json",
       "68/83.json"
@@ -12457,6 +12497,9 @@
     ],
     "56dc2b01-easier-2": [
       "12/55.json"
+    ],
+    "flow": [
+      "71/08.json"
     ],
     "ifmyulnv8": [
       "28/58.json"
@@ -12503,6 +12546,9 @@
     "referenceable-components": [
       "12/65.json",
       "68/85.json"
+    ],
+    "surface-pixel-count": [
+      "71/09.json"
     ],
     "vyaguzeoi": [
       "12/66.json"
@@ -12615,5 +12661,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-11-13 21:01:05Z"
+  "generatedOn": "2024-11-15 11:17:59Z"
 }
