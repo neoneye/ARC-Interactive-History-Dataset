@@ -2915,7 +2915,8 @@
       "69/14.json",
       "69/80.json",
       "70/53.json",
-      "72/20.json"
+      "72/20.json",
+      "72/37.json"
     ],
     "00d62c1b": [
       "1/61.json",
@@ -3132,6 +3133,7 @@
       "72/13.json",
       "72/22.json",
       "72/25.json",
+      "72/43.json",
       "8/69.json"
     ],
     "045e512c": [
@@ -3222,7 +3224,8 @@
       "48/92.json",
       "59/13.json",
       "62/79.json",
-      "63/23.json"
+      "63/23.json",
+      "72/36.json"
     ],
     "06df4c85": [
       "54/03.json",
@@ -3969,6 +3972,7 @@
       "69/00.json",
       "69/20.json",
       "71/47.json",
+      "72/26.json",
       "8/81.json"
     ],
     "21f83797": [
@@ -4505,7 +4509,8 @@
       "71/40.json",
       "71/85.json",
       "71/94.json",
-      "72/12.json"
+      "72/12.json",
+      "72/33.json"
     ],
     "29623171": [
       "1/81.json",
@@ -4597,7 +4602,8 @@
       "58/91.json",
       "68/28.json",
       "68/35.json",
-      "70/70.json"
+      "70/70.json",
+      "72/38.json"
     ],
     "3194b014": [
       "30/68.json",
@@ -4896,7 +4902,8 @@
       "69/18.json",
       "71/23.json",
       "71/42.json",
-      "71/77.json"
+      "71/77.json",
+      "72/30.json"
     ],
     "3befdf3e": [
       "5/10.json"
@@ -5424,7 +5431,8 @@
       "69/91.json",
       "71/10.json",
       "71/13.json",
-      "71/79.json"
+      "71/79.json",
+      "72/27.json"
     ],
     "4ff4c9da": [
       "30/62.json",
@@ -5605,7 +5613,8 @@
       "64/21.json",
       "65/08.json",
       "69/65.json",
-      "69/90.json"
+      "69/90.json",
+      "72/28.json"
     ],
     "5289ad53": [
       "36/70.json",
@@ -6062,7 +6071,8 @@
       "71/16.json",
       "71/36.json",
       "71/78.json",
-      "71/99.json"
+      "71/99.json",
+      "72/29.json"
     ],
     "66f2d22f": [
       "45/86.json",
@@ -6242,7 +6252,8 @@
       "25/07.json"
     ],
     "6e82a1ae": [
-      "3/91.json"
+      "3/91.json",
+      "72/35.json"
     ],
     "6ea4a07e": [
       "65/72.json",
@@ -6303,7 +6314,8 @@
       "68/13.json",
       "71/17.json",
       "71/27.json",
-      "71/29.json"
+      "71/29.json",
+      "72/32.json"
     ],
     "6fa7a44f": [
       "5/51.json"
@@ -8814,7 +8826,8 @@
       "68/11.json",
       "71/18.json",
       "71/65.json",
-      "71/81.json"
+      "71/81.json",
+      "72/31.json"
     ],
     "ea959feb": [
       "53/65.json",
@@ -8891,7 +8904,8 @@
       "63/35.json",
       "65/26.json",
       "67/08.json",
-      "71/51.json"
+      "71/51.json",
+      "72/34.json"
     ],
     "ed74f2f2": [
       "26/12.json",
@@ -10454,6 +10468,7 @@
       "9/36.json"
     ],
     "Change_color_of_object_clockwise_l6bk9tti405ajm30vuv": [
+      "72/42.json",
       "9/37.json"
     ],
     "Change_the_location_l6ag1x3wunxhu3wa01l": [
@@ -10664,7 +10679,8 @@
       "9/99.json"
     ],
     "Simple_Unique_Box_l6adthlbktjkouruq0j": [
-      "10/00.json"
+      "10/00.json",
+      "72/41.json"
     ],
     "Simple_color_substitution_by_max_object_l6abpx6n1d4ho1vu843": [
       "10/01.json"
@@ -10795,7 +10811,8 @@
       "61/20.json"
     ],
     "exchange_central_regions_diagonally_l6aezzazwi5alzkuk8n": [
-      "10/40.json"
+      "10/40.json",
+      "72/45.json"
     ],
     "fill_the_other_side_of_the_border_with_the_other_side_color_l6afhmhecdx8z6m544g": [
       "10/41.json",
@@ -12642,7 +12659,8 @@
       "67/05.json"
     ],
     "2wfys5w64": [
-      "71/07.json"
+      "71/07.json",
+      "72/39.json"
     ],
     "2wfys5w64-relative-right-side": [
       "12/53.json",
@@ -12684,7 +12702,8 @@
     ],
     "middle": [
       "12/62.json",
-      "68/90.json"
+      "68/90.json",
+      "72/44.json"
     ],
     "mind-the-gap": [
       "12/63.json",
@@ -12700,7 +12719,8 @@
     "rcpwrfki1": [
       "12/64.json",
       "63/78.json",
-      "66/99.json"
+      "66/99.json",
+      "72/40.json"
     ],
     "referenceable-components": [
       "12/65.json",
@@ -12820,5 +12840,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-11-27 15:28:51Z"
+  "generatedOn": "2024-12-01 00:03:00Z"
 }
