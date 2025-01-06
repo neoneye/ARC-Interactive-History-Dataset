@@ -3163,6 +3163,8 @@
       "74/11.json",
       "74/40.json",
       "74/51.json",
+      "74/65.json",
+      "74/72.json",
       "8/69.json"
     ],
     "045e512c": [
@@ -3280,7 +3282,8 @@
       "62/57.json",
       "62/89.json",
       "65/65.json",
-      "7/32.json"
+      "7/32.json",
+      "74/76.json"
     ],
     "08573cc6": [
       "40/03.json",
@@ -3668,7 +3671,8 @@
       "41/46.json",
       "60/84.json",
       "65/84.json",
-      "7/38.json"
+      "7/38.json",
+      "74/68.json"
     ],
     "150deff5": [
       "4/93.json"
@@ -3723,7 +3727,8 @@
       "4/33.json",
       "42/67.json",
       "47/41.json",
-      "50/73.json"
+      "50/73.json",
+      "74/70.json"
     ],
     "15696249": [
       "36/59.json",
@@ -3772,7 +3777,8 @@
       "61/70.json",
       "63/18.json",
       "72/97.json",
-      "74/28.json"
+      "74/28.json",
+      "74/69.json"
     ],
     "18419cfa": [
       "25/17.json",
@@ -4587,7 +4593,8 @@
       "73/99.json",
       "74/07.json",
       "74/53.json",
-      "74/57.json"
+      "74/57.json",
+      "74/64.json"
     ],
     "29623171": [
       "1/81.json",
@@ -4708,7 +4715,8 @@
       "67/31.json",
       "67/34.json",
       "68/22.json",
-      "68/43.json"
+      "68/43.json",
+      "74/63.json"
     ],
     "31adaf00": [
       "26/18.json",
@@ -6950,6 +6958,7 @@
       "58/70.json",
       "67/29.json",
       "69/07.json",
+      "74/62.json",
       "8/98.json"
     ],
     "913fb3ed": [
@@ -7949,6 +7958,7 @@
       "36/28.json",
       "63/41.json",
       "69/05.json",
+      "74/66.json",
       "8/01.json"
     ],
     "c074846d": [
@@ -8054,6 +8064,7 @@
       "65/58.json",
       "66/14.json",
       "69/57.json",
+      "74/67.json",
       "9/08.json"
     ],
     "c8b7cc0f": [
@@ -8877,7 +8888,8 @@
       "71/92.json",
       "72/92.json",
       "72/98.json",
-      "74/22.json"
+      "74/22.json",
+      "74/71.json"
     ],
     "e8dc4411": [
       "25/70.json",
@@ -8911,7 +8923,8 @@
       "51/20.json",
       "58/04.json",
       "72/83.json",
-      "74/23.json"
+      "74/23.json",
+      "74/75.json"
     ],
     "e9b4f6fc": [
       "30/61.json",
@@ -9244,7 +9257,8 @@
       "72/84.json",
       "72/93.json",
       "74/27.json",
-      "74/34.json"
+      "74/34.json",
+      "74/74.json"
     ],
     "f8ff0b80": [
       "35/64.json",
@@ -9475,6 +9489,31 @@
     ],
     "data_suggestfunction_100k_task261": [
       "70/99.json"
+    ]
+  },
+  "ARC-Heavy-c": {
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task0": [
+      "74/77.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task1": [
+      "74/81.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task104": [
+      "74/78.json"
+    ]
+  },
+  "ARC-Heavy-d": {
+    "100k_gpt4o-mini_generated_problems_task0": [
+      "74/80.json"
+    ],
+    "100k_gpt4o-mini_generated_problems_task100": [
+      "74/60.json"
+    ],
+    "100k_gpt4o-mini_generated_problems_task120": [
+      "74/79.json"
+    ],
+    "100k_gpt4o-mini_generated_problems_task151": [
+      "74/61.json"
     ]
   },
   "ARC_synthetic_extend": {
@@ -11761,7 +11800,8 @@
     ],
     "0a938d79": [
       "71/00.json",
-      "73/51.json"
+      "73/51.json",
+      "74/73.json"
     ],
     "0b148d64": [
       "71/01.json",
@@ -13114,5 +13154,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2024-12-30 11:16:51Z"
+  "generatedOn": "2025-01-06 14:57:33Z"
 }
