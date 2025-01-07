@@ -3165,6 +3165,7 @@
       "74/51.json",
       "74/65.json",
       "74/72.json",
+      "74/87.json",
       "8/69.json"
     ],
     "045e512c": [
@@ -5340,7 +5341,8 @@
       "39/65.json",
       "50/54.json",
       "54/78.json",
-      "57/99.json"
+      "57/99.json",
+      "75/00.json"
     ],
     "4f537728": [
       "1/00.json",
@@ -9500,6 +9502,33 @@
     ],
     "100k-gpt4-description-gpt4omini-code_generated_problems_task104": [
       "74/78.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task108": [
+      "74/94.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task143": [
+      "74/95.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task173": [
+      "74/96.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task182": [
+      "74/98.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task185": [
+      "74/82.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task193": [
+      "74/97.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task205": [
+      "74/99.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task238": [
+      "75/01.json"
+    ],
+    "100k-gpt4-description-gpt4omini-code_generated_problems_task97": [
+      "74/86.json"
     ]
   },
   "ARC-Heavy-d": {
@@ -11397,7 +11426,8 @@
       "45/07.json",
       "54/54.json",
       "59/14.json",
-      "59/64.json"
+      "59/64.json",
+      "74/90.json"
     ],
     "017c7c7b": [
       "26/92.json",
@@ -12741,6 +12771,15 @@
     "intersecting_spans_template_primary_area_without_border_4": [
       "70/14.json"
     ],
+    "intersecting_spans_template_primary_area_without_border_5": [
+      "74/83.json"
+    ],
+    "intersecting_spans_template_primary_area_without_border_6": [
+      "74/84.json"
+    ],
+    "intersecting_spans_template_primary_area_without_border_7": [
+      "74/85.json"
+    ],
     "mask_1": [
       "69/99.json"
     ],
@@ -12764,6 +12803,15 @@
     ],
     "mask_of_obscured_rectangle_16": [
       "66/85.json"
+    ],
+    "mask_of_obscured_rectangle_17": [
+      "74/88.json"
+    ],
+    "mask_of_obscured_rectangle_18": [
+      "74/89.json"
+    ],
+    "mask_of_obscured_rectangle_19": [
+      "74/93.json"
     ],
     "move_obscured_rectangle_to_top_1": [
       "67/76.json"
@@ -12850,6 +12898,12 @@
     ],
     "symmetry_line_20": [
       "70/30.json"
+    ],
+    "symmetry_line_3": [
+      "74/91.json"
+    ],
+    "symmetry_line_4": [
+      "74/92.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_10": [
       "70/49.json"
@@ -13154,5 +13208,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2025-01-06 14:57:33Z"
+  "generatedOn": "2025-01-07 17:04:56Z"
 }
