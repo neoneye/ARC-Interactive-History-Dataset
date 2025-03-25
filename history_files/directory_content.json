@@ -3013,7 +3013,8 @@
       "74/24.json",
       "75/20.json",
       "76/83.json",
-      "77/00.json"
+      "77/00.json",
+      "77/53.json"
     ],
     "017c7c7b": [
       "4/87.json",
@@ -3982,6 +3983,7 @@
       "59/02.json",
       "65/71.json",
       "76/48.json",
+      "77/57.json",
       "9/19.json"
     ],
     "1cf80156": [
@@ -5103,7 +5105,8 @@
       "72/30.json",
       "74/33.json",
       "75/19.json",
-      "75/36.json"
+      "75/36.json",
+      "77/62.json"
     ],
     "3befdf3e": [
       "5/10.json"
@@ -5364,6 +5367,7 @@
       "40/87.json",
       "66/10.json",
       "74/09.json",
+      "77/54.json",
       "8/37.json"
     ],
     "4852f2fa": [
@@ -5848,7 +5852,8 @@
       "74/21.json",
       "75/34.json",
       "76/80.json",
-      "76/96.json"
+      "76/96.json",
+      "77/61.json"
     ],
     "5289ad53": [
       "36/70.json",
@@ -6087,6 +6092,7 @@
       "75/10.json",
       "75/83.json",
       "75/92.json",
+      "77/56.json",
       "9/20.json"
     ],
     "5d2a5c43": [
@@ -6660,6 +6666,7 @@
       "72/24.json",
       "75/79.json",
       "75/88.json",
+      "77/73.json",
       "9/24.json"
     ],
     "73c3b0d8": [
@@ -6712,6 +6719,7 @@
       "57/54.json",
       "58/68.json",
       "66/06.json",
+      "77/59.json",
       "8/94.json"
     ],
     "770cc55f": [
@@ -8645,6 +8653,7 @@
       "71/44.json",
       "74/55.json",
       "75/91.json",
+      "77/58.json",
       "8/08.json"
     ],
     "dae9d2b5": [
@@ -9240,7 +9249,8 @@
       "72/31.json",
       "72/89.json",
       "74/30.json",
-      "77/06.json"
+      "77/06.json",
+      "77/55.json"
     ],
     "ea959feb": [
       "53/65.json",
@@ -9646,6 +9656,80 @@
       "58/34.json",
       "59/90.json",
       "75/69.json"
+    ]
+  },
+  "ARC-AGI-2": {
+    "0934a4d8": [
+      "77/67.json"
+    ],
+    "135a2760": [
+      "77/68.json"
+    ],
+    "136b0064": [
+      "77/66.json"
+    ],
+    "142ca369": [
+      "77/65.json"
+    ],
+    "16b78196": [
+      "77/63.json"
+    ],
+    "1818057f": [
+      "77/69.json"
+    ],
+    "195c6913": [
+      "77/70.json"
+    ],
+    "1ae2feb7": [
+      "77/64.json"
+    ],
+    "20270e3b": [
+      "77/71.json"
+    ],
+    "20a9e565": [
+      "77/72.json"
+    ],
+    "3e6067c3": [
+      "77/60.json"
+    ],
+    "f1bcbc2c": [
+      "77/85.json"
+    ],
+    "f28a3cbb": [
+      "77/79.json"
+    ],
+    "f341894c": [
+      "77/86.json"
+    ],
+    "f3b10344": [
+      "77/83.json"
+    ],
+    "f3e14006": [
+      "77/84.json"
+    ],
+    "f5aa3634": [
+      "77/76.json"
+    ],
+    "f8cc533f": [
+      "77/82.json"
+    ],
+    "f8f52ecc": [
+      "77/81.json"
+    ],
+    "f8ff0b80": [
+      "77/75.json"
+    ],
+    "fc10701f": [
+      "77/80.json"
+    ],
+    "fc4aaf52": [
+      "77/74.json"
+    ],
+    "fd02da9e": [
+      "77/77.json"
+    ],
+    "fe45cba4": [
+      "77/78.json"
     ]
   },
   "ARC-Heavy-a": {
@@ -13151,13 +13235,15 @@
       "74/92.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_10": [
-      "70/49.json"
+      "70/49.json",
+      "77/51.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_11": [
       "70/50.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_4": [
-      "68/65.json"
+      "68/65.json",
+      "77/50.json"
     ],
     "symmetry_rect_input_image_and_extract_a_particular_tile_5": [
       "68/66.json"
@@ -13170,6 +13256,9 @@
     ],
     "symmetry_square_input_image_and_extract_a_particular_tile_18": [
       "68/76.json"
+    ],
+    "symmetry_square_input_image_and_extract_a_particular_tile_9": [
+      "77/52.json"
     ],
     "translate_7": [
       "67/22.json"
@@ -13456,5 +13545,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2025-03-17 18:41:11Z"
+  "generatedOn": "2025-03-25 09:26:10Z"
 }
