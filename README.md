@@ -9,9 +9,9 @@ This project aims to build a comprehensive dataset of interaction histories to f
 [video, 2 minutes, showing various ways of puzzle solving](https://www.youtube.com/watch?v=vQt7UZsYooQ).
 
 Interaction history examples:
-[05a7bcf2](https://neoneye.github.io/arc/history.html?dataset=ARC&task=05a7bcf2historyIndex=0&historyJson=%5B%2225%2F50%22%2C%2227%2F90%22%2C%228%2F70%22%5D), 
-[08573cc6](https://neoneye.github.io/arc/history.html?dataset=ARC&task=08573cc6historyIndex=0&historyJson=%5B%227%2F33%22%5D), 
-[3f23242b](https://neoneye.github.io/arc/history.html?dataset=ARC&task=3f23242bhistoryIndex=0&historyJson=[%224%2F39%22]).
+[05a7bcf2](https://neoneye.github.io/arc/history.html?dataset=ARC&task=05a7bcf2&historyIndex=0&historyJson=%5B%2225%2F50%22%2C%2227%2F90%22%2C%228%2F70%22%5D), 
+[08573cc6](https://neoneye.github.io/arc/history.html?dataset=ARC&task=08573cc6&historyIndex=0&historyJson=%5B%227%2F33%22%5D), 
+[3f23242b](https://neoneye.github.io/arc/history.html?dataset=ARC&task=3f23242b&historyIndex=0&historyJson=[%224%2F39%22]).
 
 ## Contribute by solving tasks
 
