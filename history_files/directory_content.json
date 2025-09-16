@@ -2759,7 +2759,8 @@
       "37/65.json"
     ],
     "1d_scale_dp_9": [
-      "37/70.json"
+      "37/70.json",
+      "92/11.json"
     ]
   },
   "ARC": {
@@ -3045,7 +3046,8 @@
       "87/22.json",
       "90/92.json",
       "91/25.json",
-      "91/82.json"
+      "91/82.json",
+      "92/00.json"
     ],
     "017c7c7b": [
       "4/87.json",
@@ -3504,7 +3506,8 @@
       "73/73.json",
       "83/53.json",
       "87/11.json",
-      "91/75.json"
+      "91/75.json",
+      "91/99.json"
     ],
     "0a938d79": [
       "4/90.json",
@@ -3605,7 +3608,8 @@
       "83/76.json",
       "85/02.json",
       "91/12.json",
-      "91/83.json"
+      "91/83.json",
+      "92/26.json"
     ],
     "0bb8deee": [
       "36/63.json",
@@ -3810,7 +3814,8 @@
       "59/83.json",
       "72/59.json",
       "72/72.json",
-      "86/52.json"
+      "86/52.json",
+      "92/50.json"
     ],
     "140c817e": [
       "2/84.json",
@@ -3962,7 +3967,8 @@
       "74/28.json",
       "74/69.json",
       "77/02.json",
-      "85/40.json"
+      "85/40.json",
+      "92/28.json"
     ],
     "18419cfa": [
       "25/17.json",
@@ -4470,7 +4476,8 @@
       "83/39.json",
       "84/20.json",
       "85/20.json",
-      "91/93.json"
+      "91/93.json",
+      "92/45.json"
     ],
     "264363fd": [
       "8/30.json",
@@ -5270,7 +5277,8 @@
       "83/34.json",
       "84/05.json",
       "85/21.json",
-      "91/65.json"
+      "91/65.json",
+      "92/44.json"
     ],
     "3ac3eb23": [
       "1/87.json",
@@ -5365,7 +5373,10 @@
       "85/15.json",
       "91/01.json",
       "91/29.json",
-      "91/66.json"
+      "91/66.json",
+      "91/98.json",
+      "92/29.json",
+      "92/38.json"
     ],
     "3befdf3e": [
       "5/10.json",
@@ -5511,7 +5522,8 @@
       "86/48.json",
       "9/48.json",
       "91/36.json",
-      "91/77.json"
+      "91/77.json",
+      "92/64.json"
     ],
     "4290ef0e": [
       "3/75.json",
@@ -5542,7 +5554,8 @@
     "4364c1c4": [
       "2/95.json",
       "77/05.json",
-      "87/95.json"
+      "87/95.json",
+      "91/96.json"
     ],
     "444801d8": [
       "3/77.json",
@@ -5975,7 +5988,8 @@
       "91/15.json",
       "91/53.json",
       "91/62.json",
-      "91/73.json"
+      "91/73.json",
+      "92/30.json"
     ],
     "4ff4c9da": [
       "30/62.json",
@@ -6260,7 +6274,8 @@
       "82/07.json",
       "83/36.json",
       "86/49.json",
-      "91/88.json"
+      "91/88.json",
+      "92/37.json"
     ],
     "54d9e175": [
       "3/85.json",
@@ -6530,7 +6545,8 @@
       "75/38.json",
       "83/37.json",
       "85/07.json",
-      "91/89.json"
+      "91/89.json",
+      "92/42.json"
     ],
     "60c09cac": [
       "3/05.json",
@@ -6732,7 +6748,8 @@
       "91/08.json",
       "91/24.json",
       "91/63.json",
-      "91/76.json"
+      "91/76.json",
+      "92/65.json"
     ],
     "66f2d22f": [
       "45/86.json",
@@ -6932,7 +6949,8 @@
       "83/74.json",
       "84/10.json",
       "85/01.json",
-      "91/70.json"
+      "91/70.json",
+      "92/62.json"
     ],
     "6df30ad6": [
       "4/52.json",
@@ -7021,7 +7039,8 @@
       "83/56.json",
       "84/11.json",
       "85/09.json",
-      "91/78.json"
+      "91/78.json",
+      "92/63.json"
     ],
     "6fa7a44f": [
       "5/51.json"
@@ -7522,7 +7541,8 @@
       "49/24.json",
       "49/25.json",
       "69/94.json",
-      "88/10.json"
+      "88/10.json",
+      "92/01.json"
     ],
     "8b28cd80": [
       "7/76.json"
@@ -8076,7 +8096,8 @@
       "74/01.json",
       "75/40.json",
       "85/22.json",
-      "91/61.json"
+      "91/61.json",
+      "92/36.json"
     ],
     "a680ac02": [
       "27/28.json",
@@ -8123,7 +8144,8 @@
       "71/80.json",
       "75/51.json",
       "85/28.json",
-      "91/71.json"
+      "91/71.json",
+      "92/43.json"
     ],
     "a740d043": [
       "5/68.json",
@@ -8172,7 +8194,8 @@
       "75/41.json",
       "86/51.json",
       "91/37.json",
-      "91/94.json"
+      "91/94.json",
+      "92/35.json"
     ],
     "a85d4709": [
       "2/37.json",
@@ -8273,7 +8296,8 @@
       "76/73.json",
       "83/57.json",
       "85/29.json",
-      "91/79.json"
+      "91/79.json",
+      "92/34.json"
     ],
     "aba27056": [
       "2/38.json",
@@ -8443,7 +8467,8 @@
       "71/30.json",
       "75/47.json",
       "82/34.json",
-      "85/23.json"
+      "85/23.json",
+      "92/33.json"
     ],
     "b1fc8b8e": [
       "60/17.json",
@@ -9114,7 +9139,8 @@
       "74/00.json",
       "75/52.json",
       "85/32.json",
-      "91/80.json"
+      "91/80.json",
+      "92/32.json"
     ],
     "d06dbe63": [
       "24/86.json",
@@ -9738,7 +9764,8 @@
       "84/31.json",
       "86/44.json",
       "90/90.json",
-      "91/92.json"
+      "91/92.json",
+      "92/40.json"
     ],
     "e76a88a6": [
       "2/71.json",
@@ -9838,7 +9865,8 @@
       "84/13.json",
       "85/13.json",
       "91/11.json",
-      "91/56.json"
+      "91/56.json",
+      "92/41.json"
     ],
     "e8593010": [
       "2/72.json",
@@ -10000,7 +10028,8 @@
       "85/31.json",
       "90/78.json",
       "91/81.json",
-      "91/85.json"
+      "91/85.json",
+      "92/61.json"
     ],
     "ea959feb": [
       "53/65.json",
@@ -10085,7 +10114,8 @@
       "71/51.json",
       "72/34.json",
       "85/33.json",
-      "91/21.json"
+      "91/21.json",
+      "92/31.json"
     ],
     "ed74f2f2": [
       "26/12.json",
@@ -10380,7 +10410,8 @@
       "84/19.json",
       "85/14.json",
       "90/91.json",
-      "91/64.json"
+      "91/64.json",
+      "92/39.json"
     ],
     "fcb5c309": [
       "4/26.json",
@@ -13256,7 +13287,8 @@
       "75/77.json",
       "76/16.json",
       "76/32.json",
-      "9/28.json"
+      "9/28.json",
+      "92/20.json"
     ],
     "1_3_5th_go_down_2_4th_go_up_l6abuzscmjgg12f0mdc": [
       "25/21.json",
@@ -13730,17 +13762,20 @@
       "10/62.json"
     ],
     "parting_cross_l6acqil00ywf88hqnrpm": [
-      "10/63.json"
+      "10/63.json",
+      "92/60.json"
     ],
     "pull_inner_gadget_towards_the_side_with_different_color_l6aeiaci4szwtcqghvt": [
       "10/64.json",
       "43/37.json",
-      "48/83.json"
+      "48/83.json",
+      "92/59.json"
     ],
     "push_to_top-right_by_one_l6aflo0rz66bdej719": [
       "10/65.json",
       "61/48.json",
-      "63/92.json"
+      "63/92.json",
+      "92/25.json"
     ],
     "rainy_day_l6bjze1slxrmz0q8ufb": [
       "10/66.json"
@@ -13753,28 +13788,35 @@
       "43/42.json"
     ],
     "rolling_l6aefbfyndc6kgu16ai": [
-      "10/49.json"
+      "10/49.json",
+      "92/27.json"
     ],
     "rotating_colors_l6acdi323jol47enccp": [
-      "10/68.json"
+      "10/68.json",
+      "92/21.json"
     ],
     "shape_mapping_l6afcchh0wfew0rhswzq": [
       "10/69.json",
-      "43/51.json"
+      "43/51.json",
+      "92/24.json"
     ],
     "stretch_vertically_l6acwqhltn3k0zhgzjo": [
-      "10/70.json"
+      "10/70.json",
+      "92/23.json"
     ],
     "wave_propagation_l6afe4he1mhixwh8v9e": [
       "10/71.json",
-      "48/90.json"
+      "48/90.json",
+      "92/22.json"
     ],
     "which_side_has_more_area_l6bkhow9g5d3u8nwm58": [
       "10/72.json",
-      "61/49.json"
+      "61/49.json",
+      "92/56.json"
     ],
     "wrap_blue_around_red_l6ae5b5csckyjb7nsj": [
-      "10/73.json"
+      "10/73.json",
+      "92/58.json"
     ],
     "xor_l6bk7mn24iz2pdb4lxp": [
       "10/74.json",
@@ -13786,7 +13828,8 @@
       "10/75.json",
       "61/47.json",
       "63/94.json",
-      "89/89.json"
+      "89/89.json",
+      "92/57.json"
     ]
   },
   "PQA": {
@@ -14454,16 +14497,20 @@
   "Sort-of-ARC": {
     "04e912a9": [
       "67/98.json",
-      "68/18.json"
+      "68/18.json",
+      "92/17.json"
     ],
     "0f39a9d9": [
-      "67/97.json"
+      "67/97.json",
+      "92/52.json"
     ],
     "102b44f9": [
-      "67/99.json"
+      "67/99.json",
+      "92/07.json"
     ],
     "11868b19": [
-      "68/00.json"
+      "68/00.json",
+      "92/53.json"
     ],
     "21daab95": [
       "67/87.json"
@@ -14505,16 +14552,20 @@
       "68/16.json"
     ],
     "d1d28121": [
-      "67/94.json"
+      "67/94.json",
+      "92/54.json"
     ],
     "e70425d2": [
-      "68/25.json"
+      "68/25.json",
+      "92/18.json"
     ],
     "eb456b4d": [
-      "67/95.json"
+      "67/95.json",
+      "92/19.json"
     ],
     "f0717d5c": [
-      "67/96.json"
+      "67/96.json",
+      "92/55.json"
     ]
   },
   "arc-community": {
@@ -15622,16 +15673,56 @@
   "arc_1d": {
     "block_and_noise_remove_0": [
       "74/35.json",
-      "90/98.json"
+      "90/98.json",
+      "92/02.json"
     ],
     "block_and_noise_remove_1": [
-      "74/41.json"
+      "74/41.json",
+      "91/97.json"
     ],
     "block_and_noise_remove_2": [
-      "74/36.json"
+      "74/36.json",
+      "92/46.json"
+    ],
+    "block_and_noise_remove_3": [
+      "92/03.json"
+    ],
+    "block_and_noise_remove_4": [
+      "92/04.json"
+    ],
+    "block_and_noise_remove_5": [
+      "92/47.json"
+    ],
+    "block_and_noise_remove_6": [
+      "92/05.json"
+    ],
+    "block_and_noise_remove_7": [
+      "92/08.json"
+    ],
+    "block_and_noise_remove_8": [
+      "92/06.json"
     ],
     "block_and_noise_remove_9": [
-      "90/99.json"
+      "90/99.json",
+      "92/09.json"
+    ],
+    "block_scale_to_dot_0": [
+      "92/48.json"
+    ],
+    "block_scale_to_dot_1": [
+      "92/12.json"
+    ],
+    "block_scale_to_dot_2": [
+      "92/49.json"
+    ],
+    "block_scale_to_dot_3": [
+      "92/13.json"
+    ],
+    "block_scale_to_dot_4": [
+      "92/51.json"
+    ],
+    "block_touch_dot_6": [
+      "92/10.json"
     ],
     "color_left_half_blocks_right_4": [
       "74/42.json"
@@ -15820,13 +15911,16 @@
       "61/92.json",
       "70/94.json",
       "75/14.json",
-      "75/18.json"
+      "75/18.json",
+      "92/14.json"
     ],
     "0a46b83c": [
-      "59/66.json"
+      "59/66.json",
+      "92/15.json"
     ],
     "0a4cb0fd": [
-      "45/48.json"
+      "45/48.json",
+      "92/16.json"
     ],
     "4103c6b5": [
       "81/93.json"
@@ -15848,5 +15942,5 @@
       "60/12.json"
     ]
   },
-  "generatedOn": "2025-09-13 07:43:17Z"
+  "generatedOn": "2025-09-16 06:11:49Z"
 }
